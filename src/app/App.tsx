@@ -26,13 +26,13 @@ export default function App() {
             </svg>
           </div>
 
-          <h1 className="text-4xl mb-3 text-black">Usan Not Found?</h1>
+          <h1 className="text-4xl mb-3 text-black">Hello World!</h1>
 
           <p className="text-base text-black mb-8">
             The page you are looking for doesn't exist or has been moved
           </p>
 
-          <button className="w-full max-w-xs px-6 py-3 bg-[#D4C5F9] text-black rounded-lg border-2 border-black hover:bg-[#C4B5E9] transition-colors">
+          <button className="w-full max-w-xs px-6 py-3 bg-green-400 text-black rounded-lg border-2 border-black hover:bg-green-500 transition-colors">
             Go Home
           </button>
         </div>
