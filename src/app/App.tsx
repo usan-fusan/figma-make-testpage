@@ -26,7 +26,7 @@ export default function App() {
             </svg>
           </div>
 
-          <h1 className="text-4xl mb-3 text-black">Page Not Found</h1>
+          <h1 className="text-4xl mb-3 text-black">Usan Not Found?</h1>
 
           <p className="text-base text-black mb-8">
             The page you are looking for doesn't exist or has been moved
